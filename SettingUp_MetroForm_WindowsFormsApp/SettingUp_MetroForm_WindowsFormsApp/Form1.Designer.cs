@@ -36,6 +36,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackImage = ((System.Drawing.Image)(resources.GetObject("$this.BackImage")));
+            this.BackMaxSize = 923;
             this.ClientSize = new System.Drawing.Size(923, 649);
             this.Name = "Form1";
             this.Resizable = false;
