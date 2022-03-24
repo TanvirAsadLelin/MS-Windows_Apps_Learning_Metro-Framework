@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2F43C742-CD60-41CB-B634-123CCE5164D5}</ProjectGuid>
+    <ProjectGuid>{27BD9926-1F85-4300-9F26-42527AF755D2}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Metro_Framework_Test_WindowsFormsApp</RootNamespace>
-    <AssemblyName>Metro_Framework_Test_WindowsFormsApp</AssemblyName>
+    <RootNamespace>SettingUp_MetroForm_WindowsFormsApp</RootNamespace>
+    <AssemblyName>SettingUp_MetroForm_WindowsFormsApp</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

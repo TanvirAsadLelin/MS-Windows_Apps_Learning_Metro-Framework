@@ -7,10 +7,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+
 using MetroFramework;
 using MetroFramework.Forms;
 
-namespace Metro_Framework_Test_WindowsFormsApp
+namespace SettingUp_MetroForm_WindowsFormsApp
 {
     public partial class Form1 : MetroForm
     {
